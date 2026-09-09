@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+.venv/
+venv/
+env/
+
+# uv
+.uv/
+uv.lock
+
+# Environment and secrets
+.env
+.env.local
+*.env
+scrapfly_key.txt
+secrets/
+
+# Scrapy
+.scrapy/
+
+# Playwright
+playwright-report/
+test-results/
+playwright/.cache/
+
+# Database dumps
+*.dump
+*.sqlite
+*.sqlite3
+
+# Data artifacts
+*.log
+data_dumps/
+raw_exports/
+
+# IDE
+.idea/
+.vscode/
+
+# Bun / JavaScript tooling should not be part of this Python-only stack
+node_modules/
+bun.lockb
+package.json

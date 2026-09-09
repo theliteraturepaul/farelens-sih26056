@@ -1,0 +1,12 @@
+# Approved FareLens runtime dependencies
+scrapy
+playwright
+scrapfly
+fastapi
+uvicorn
+streamlit
+plotly
+pandas
+numpy
+scipy
+psycopg[binary]
