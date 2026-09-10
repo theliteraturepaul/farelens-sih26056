@@ -1,7 +1,7 @@
 # Approved FareLens runtime dependencies
 scrapy
 playwright
-scrapfly
+scrapfly-sdk
 fastapi
 uvicorn
 streamlit
